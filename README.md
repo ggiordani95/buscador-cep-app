@@ -1,3 +1,12 @@
+para rodar:
+
+npm install no projeto,
+após executar o comando npm start.
+
+
+
+
+
 buscador-cep-app foi desenvolvido para buscar o cep atrelado ao endereço
 
 insira o cep na busca:
